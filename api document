@@ -1,0 +1,22 @@
+/////////////
+/******GetAllUser*****/
+localhost:5000/api/auth/users
+(GET)> https://developerjwt.herokuapp.com/api/auth/users
+
+/******Register*****/
+localhost:5000/api/auth/register
+(POST)> https://developerjwt.herokuapp.com/api/auth/register
+(body) => {"name":"Aakash", "email":"aa@gmail.com","password":"12345678","phone":343432,role?":"user"}
+
+/******Login*****/
+localhost:5000/api/auth/login
+(POST) => https://developerjwt.herokuapp.com/api/auth/login
+(body)  => {"email":"aa@gmail.com","password":"12345678"}
+(response)=> {auth:true,token:'dgsdg'}
+
+/******UserInfo*****/
+localhost:5000/api/auth/userInfo
+(GET) => https://developerjwt.herokuapp.com/api/auth/userinfo
+(Header) => {'x-access-token':'token value from login'}
+
+https://developerpayment.herokuapp.com/paynow

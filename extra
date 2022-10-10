@@ -1,0 +1,5 @@
+npm i bcryptjs body-parser cors express jsonwebtoken mongoose
+
+token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzM2VkZThiMWIyODU0OTVjZTkxYzdiNCIsImlhdCI6MTY2NTA2ODU5NywiZXhwIjoxNjY1MTU0OTk3fQ.rw-9TM3cvQcd91WYEHPBLdQT1JnpuSjR-YU5slxHJ7Q
+        eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzM2VkZTQ2MWIyODU0OTVjZTkxYzdiMSIsImlhdCI6MTY2NTA2OTU4NSwiZXhwIjoxNjY1MTU1OTg1fQ.yg27QFlhgt48WvnViMHMdTPX35dev3AKdanIM8ObtYI
+        
